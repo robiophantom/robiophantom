@@ -120,11 +120,8 @@ OOP | DSA | Networking | Operating Systems
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=robiophantom&icon=0&color=0"/>
+  <i style="color: #808080;">"Build Something which adds value to this world."</i><br>
+  — <b style="color: #00C4CC;">Priyansh Rathore</b>
 </p>
-
----
-
-<p align="center"><i>"Code. Learn. Build. Repeat."</i><br>— <b>Priyansh Rathore</b></p>
 
 <!-- ✨ Proudly created with GPRM (https://gprm.itsvg.in) -->
