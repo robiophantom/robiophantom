@@ -1,8 +1,8 @@
 <!-- 🌟 Priyansh Rathore GitHub Profile README -->
 
-<h1 align="center">👋 Hi, I'm Priyansh Rathore</h1>
+<h1>👋 Hi, I'm Priyansh Rathore</h1>
 
-<p align="center">
+<p>
 🎓 <b>B.Tech CSE student @ Graphic Era University</b> (GPA: 9.0) <br>
 💡 Passionate about <b>Full-Stack Development</b>, <b>Cloud Computing</b>, and <b>DSA</b> <br>
 🚀 Solved <b>800+ DSA problems</b> across <i>LeetCode</i>, <i>Codeforces</i>, and <i>CodeChef</i> <br>
