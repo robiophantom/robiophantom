@@ -42,8 +42,8 @@ OOP | DSA | Networking | Operating Systems
 🔹 **Movie Recommendation System**  
 > Content-based recommender using cosine similarity on movie data.
 
-🔹 **Document Plagiarism Finder**  
-> Full-stack plagiarism detection using hashing algorithms & PostgreSQL.
+🔹 **Agroshakti**  
+> Platform powered by LLM to resolve farmers queries related to crops, weather, soil and government schemes.
 
 ---
 
