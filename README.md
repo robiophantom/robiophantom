@@ -3,10 +3,10 @@
 <h1>👋 Hi, I'm Priyansh Rathore</h1>
 
 <p>
-🎓 <b>B.Tech CSE student @ Graphic Era University</b> (GPA: 9.0) <br>
-💡 Passionate about <b>Full-Stack Development</b>, <b>Cloud Computing</b>, and <b>DSA</b> <br>
+🎓 <b>B.Tech CSE Hons. with AIML @ Graphic Era Hill University</b> (CGPA: 8.70) <br>
+💡 Skilled in <b>AI + Full-Stack Development</b><br>
 🚀 Solved <b>800+ DSA problems</b> across <i>LeetCode</i>, <i>Codeforces</i>, and <i>CodeChef</i> <br>
-☁️ Experienced with <b>AWS</b> & <b>Azure</b> deployments <br>
+☁️ Experienced with <b>AI Tools</b>, <b>LLMs</b>, <b>RAGs</b>, and <b>Full Stack Applications</b> <br>
 🤝 Open to <b>collaborations</b>, <b>internships</b>, and <b>exciting projects</b> <br>
 </p>
 
@@ -15,35 +15,32 @@
 ## 🔧 Tech Stack
 
 ### 🧠 Languages  
-C++ | Python | Java | SQL  
+C++ | Python | Javascript | SQL  
 
-### 🌐 Web & App Development  
-React.js | Node.js | Express.js | Flask | Streamlit | JavaFX | HTML | CSS | JavaScript | Tailwind CSS  
+### 🌐 AI & Web Development  
+LLMs | RAGs | Prompt Engineering | Chat Bot | React.js | Node.js | Express.js | PyTorch | REST APIs | FastAPI | Tailwind CSS  
 
 ### ☁️ Cloud & Tools  
-AWS | Azure | Git / GitHub | GitLab | VS Code | Jupyter | Figma | Google Colab  
-
-### 📊 Libraries & ML  
-NumPy | Pandas | Scikit-learn | TensorFlow  
+AWS | Azure | Git / GitHub | GitLab | VS Code | Jupyter | Figma | Google Colab    
 
 ### 🗄️ Databases  
 MySQL | PostgreSQL | MongoDB  
 
 ### ⚙️ Core CS Concepts  
-OOP | DSA | Networking | Operating Systems  
+OOP | DSA | DBMS | Computer Network | Operating Systems
 
 ---
 
 ## 🚀 Projects
 
-🔹 **MicroMatch – Influencer Marketing Platform**  
-> MERN stack + Flask + Meta Graph API platform connecting brands with influencers.
-
-🔹 **Movie Recommendation System**  
-> Content-based recommender using cosine similarity on movie data.
+🔹 **Agent Voxa - AI Receptionist**  
+> An AI Agent which is powered by RAG to answer user queries related to college, admission e.t.c via Call and/or Chat.
 
 🔹 **Agroshakti**  
 > Platform powered by LLM to resolve farmers queries related to crops, weather, soil and government schemes.
+
+🔹 **Movie Recommendation System**  
+> Content-based recommender using cosine similarity on movies data.
 
 ---
 
