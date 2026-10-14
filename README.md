@@ -5,7 +5,7 @@
 <p>
 🎓 <b>B.Tech CSE Hons. with AIML @ Graphic Era Hill University</b> (CGPA: 8.70) <br>
 💡 Skilled in <b>AI + Full-Stack Development</b><br>
-🚀 Solved <b>800+ DSA problems</b> across <i>LeetCode</i>, <i>Codeforces</i>, and <i>CodeChef</i> <br>
+🚀 Solved <b>1000+ DSA problems</b> across <i>LeetCode</i>, <i>Codeforces</i>, and <i>CodeChef</i> <br>
 ☁️ Experienced with <b>AI Tools</b>, <b>LLMs</b>, <b>RAGs</b>, and <b>Full Stack Applications</b> <br>
 🤝 Open to <b>collaborations</b>, <b>internships</b>, and <b>exciting projects</b> <br>
 </p>
